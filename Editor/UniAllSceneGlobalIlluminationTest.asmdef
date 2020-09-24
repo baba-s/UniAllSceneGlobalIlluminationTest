@@ -1,0 +1,17 @@
+{
+    "name": "UniAllSceneGlobalIlluminationTest",
+    "references": [
+        "GUID:9ccc8512b2043824783f86479094150f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
