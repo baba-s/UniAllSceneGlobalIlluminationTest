@@ -1,6 +1,6 @@
 # UniAllSceneGlobalIlluminationTest
 
-Global Illumination が無効になっているかのテスト
+すべてのシーンの Global Illumination が無効になっているかのテスト
 
 ## 概要
 
